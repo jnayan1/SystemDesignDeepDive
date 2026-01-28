@@ -1,2 +1,2 @@
 # SystemDesignDeepDive
-High level discussio to design popular, large scale systems
+High level discussion to design popular, large scale systems
